@@ -1,4 +1,22 @@
 {
-    "authorized_names": ["AntSkip","booosterpek","pekbooster","Jinn", "Gilgamesh", "Salem", "314", "310", "213", "312", "311", "dojacat", "sheesh", "op", "Humanoids", "WootMate", "Sheeba"],
+    "authorized_names": [
+        "AntSkip",
+        "booosterpek",
+        "pekbooster",
+        "Jinn",
+        "Gilgamesh",
+        "Salem",
+        "314",
+        "310",
+        "213",
+        "312",
+        "311",
+        "dojacat",
+        "sheesh",
+        "op",
+        "Humanoids",
+        "WootMate",
+        "Sheeba"
+    ],
     "expiration_time": "2025-06-01T14:04:00+04:00"
 }
