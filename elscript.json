@@ -46,7 +46,8 @@
         "DrGui",
         "ImGui",
         "curios",
-        "Cur1Os"
+        "Cur1Os",
+        "inDaSunLight"
     ],
     "restricted_maps": [
         "Cave of the Dead",
