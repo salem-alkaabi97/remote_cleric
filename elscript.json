@@ -45,7 +45,8 @@
         "lincl",
         "DrGui",
         "ImGui",
-        "curios"
+        "curios",
+        "Cur1Os"
     ],
     "restricted_maps": [
         "Cave of the Dead",
